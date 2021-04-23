@@ -1,5 +1,8 @@
 # _**COSC481W Group 4 Project Report:** 'Chat App'_
-1. [Group Information](#1-group-information)
+This is a copy of my [COSC481W Group Project](https://github.com/ysanche1/COSC481W-Group4), 'Chat App'. I worked with a 5 person group to design, document and devlope an app inspired by 'WhatsApp'. 
+</br> 
+## _**Contents**_
+1. Group Information
 2. [Introduction](#2-introduction)
 3. [User Manual](#3-user-manual)
 4. [Implementation Manual](#4-implementation-manual)
@@ -14,14 +17,10 @@
         4. [Install Node Modules](#iv-how-to-install-node-modules)
         5. [Run App](#v-how-to-run-chat-app)
     6. Descriptiion of Programs
-## **_1. Group Information_**
-
+## ...
 ## **_2. Introduction_**
-
-
-
-
-
+The objective of our project is to create a software application that facilitates communication between users. New users will be able to create an account with an email address and six character password. The account will be required for login. Users will be able to search for other users, maintain a contact list, begin new conversations and . New messages can be composed with one recipient for a 1-to-1 line of communication. New messages can also be composed with several recipients to create a group chat. 
+</br>
 
 
 ## **_3. User Manual_**
